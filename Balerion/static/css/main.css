@@ -1,0 +1,174 @@
+body{
+    background-color: #0066C0;
+}
+
+.logo{
+    width: 30%;
+    height: 100px;
+    float: left;
+    margin-left: 20px;
+}
+
+.header{
+    margin-bottom: 30px;
+    width: 100%;
+    height: 120px;
+}
+
+.heading{
+    color: azure;
+    width: 20%;
+    float: left;
+    margin-left: 40px;
+    font-size: 25px;
+}
+
+.about-info {
+    width: 100%;
+    cursor: pointer;
+    float: left;
+    margin-bottom: 60px;
+}
+
+.float-right{
+    float: right;
+    font-weight: bold;
+}
+
+.about-text{
+    padding: 10px 20px 10px 20px;
+    background-color: azure;
+    display: none;
+    width: 65%;
+    margin-left: 20px;
+}
+
+.about-heading{
+    height: 80px;
+    line-height: 80px;
+    background-color: gainsboro;
+    color: #333536;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 65%;
+    margin-left: 20px;
+}
+
+.input-row{
+    margin-left: 60px;
+    width: 100%;
+}
+
+.row-heading{
+    color: white;
+    margin-right: 20px;
+    margin-top: 25px;
+    float: left;
+}
+
+.input-ioc{
+    background-color: gainsboro;
+    text-indent: 10px;
+    color: gray;
+    width: 97%;
+    height: 90%;
+    border-radius: 5px;
+    margin: auto;
+    clear: both;
+}
+
+.input-ioc input, .input-ioc select{
+    background-color: gainsboro;
+    border: hidden;
+    height: 97%;
+}
+
+.input-ioc select{
+    width: 50%;
+    color: dimgray;
+    padding-left: 10%;
+}
+
+.input-ioc-div{
+    width: 315px;
+    background-color: white;
+    padding-top: 6px;
+    float: left;
+    margin-left: 15px;
+    margin-bottom: 20px;
+}
+
+.div-height-ioc{
+    height: 70px;
+}
+
+.div-height-cl-type{
+    height: 60px;
+}
+
+select:focus, input:focus{
+    outline: none;
+}
+
+input,
+input::-webkit-input-placeholder {
+    font-size: 20px;
+}
+
+.compute-button{
+    width: 150px;
+    color: white;
+    background-color: #47C364;
+    border: hidden;
+}
+
+.footer-link{
+    position:absolute;
+    bottom:50px;
+    left: 30%;
+    color: white;
+}
+
+.font-size-20{
+    font-size: 20px;
+}
+.font-size-25{
+    font-size: 25px;
+}
+
+.result-table{
+    width: 100%;
+    float: left;
+    margin-top: 30px;
+}
+
+table {
+    border-collapse: collapse;
+    color: white;
+    width: 40%;
+    margin-left: 100px;
+}
+
+table, th, td {
+    border: 2px solid gray;
+}
+
+td{
+    width: 50%;
+    height: 40px;
+}
+
+.table-heading{
+    float: none;
+    margin-left: 100px;
+}
+
+.error-text {
+    color: #b12222;
+    margin-top: 10px;
+    position: absolute;
+}
+
+.waiting-text{
+    display: none;
+}

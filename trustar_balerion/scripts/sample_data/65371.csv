@@ -1,0 +1,11 @@
+uuid,event_id,category,type,value,comment,to_ids,date
+56e2eebc-2980-465e-9a33-3b7bac1f3af3,65371,External analysis,comment,"Guest16_min","Campaign ID",0,20160311
+56e2eebc-2de0-4e28-a0f5-3b7bac1f3af3,65371,External analysis,comment,"vt","Source",0,20160311
+56e2eebc-3b50-47cc-8eef-3b7bac1f3af3,65371,External analysis,comment,"2015-12-18 15:36:54","Date Observed",0,20160311
+56e2eebc-4710-4743-8f90-3b7bac1f3af3,65371,External analysis,sha1,"7652429d66498ec855ef3fecfe62907078094df4","",0,20160311
+56e2eebc-56c4-4d14-8895-3b7bac1f3af3,65371,External analysis,ip-dst,"31.210.117.131","Ports:1723",0,20160311
+56e2eebc-8fb0-4ccc-8867-3b7bac1f3af3,65371,External analysis,comment,"DarkComet","Rat Name",0,20160311
+56e2eebc-96ac-4602-b186-3b7bac1f3af3,65371,External analysis,comment,"e5b4359a3773764a372173074ae9b6bd","Imphash",0,20160311
+56e2eebc-b1dc-41c7-af98-3b7bac1f3af3,65371,External analysis,sha256,"aac40891697d0a2b4c00c0c55f124021aafe0d69723beafd232bc8b7944be826","",0,20160311
+56e2eebc-d568-4d61-b3ec-3b7bac1f3af3,65371,External analysis,md5,"b5f169ff009e8a15d13048dd614da574","",0,20160311
+56e2eebc-eb30-4412-a3d5-3b7bac1f3af3,65371,External analysis,comment,"{""OfflineKeylogger"": ""1"", ""Version"": ""#KCMDDC51#"", ""Mutex"": ""DCMIN_MUTEX-GU3B82J"", ""section_.BSS"": ""d41d8cd98f00b204e9800998ecf8427e"", ""section_.IDATA"": ""cd30ca2b6ff5111155dec94ee29ec186"", ""section_.ITEXT"": ""3f63b5c2974302201afb8afa01b8ac10"", ""Date"": ""2015-12-18 15:36:54"", ""sha256"": ""aac40891697d0a2b4c00c0c55f124021aafe0d69723beafd232bc8b7944be826"", ""rat_name"": ""DarkComet"", ""imphash"": ""e5b4359a3773764a372173074ae9b6bd"", ""md5"": ""b5f169ff009e8a15d13048dd614da574"", ""Origin"": ""vt"", ""Domain"": ""31.210.117.131"", ""sha1"": ""7652429d66498ec855ef3fecfe62907078094df4"", ""magic"": ""PE32 executable for MS Windows (GUI) Intel 80386 32-bit"", ""Campaign"": ""Guest16_min"", ""section_.TEXT"": ""8067456c5dc713997e61924c501c8cb2"", ""section_.RSRC"": ""117d9bc52a7bb7bcfef208da12d7ffc6"", ""compile_date"": ""2012-06-07 15:59:53"", ""section_.RDATA"": ""c1788dfeb92bbf0cff5aeaeaf1270ff8"", ""section_.TLS"": ""d41d8cd98f00b204e9800998ecf8427e"", ""Gencode"": ""2sPLLKQSwbrd"", ""section_.DATA"": ""81fa247370ecc3476b5c17086c0f2024"", ""Port"": ""1723"", ""section_.RELOC"": ""e55564594dad16a2ca19fb85903b9300""}","JSON config",0,20160311
